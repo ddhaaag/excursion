@@ -20,13 +20,11 @@ h2 {
     font-weight: 300;
 }
 
-.places {
+p {
     font-size: 1.3125rem;
     color: gray;
 }
 
-.footer p {
+.footer {
     text-align: right;
-    color: gray;
-    font-size: 21px;
 }
