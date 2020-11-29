@@ -14,3 +14,13 @@ h1 {
 p a {
     color: aquamarine;
 }
+
+.guide {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.places {
+    font-size: 1.3125rem;
+    color: gray;
+}
